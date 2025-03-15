@@ -5,7 +5,7 @@ class Task:
     self.description = description
     self.completed = completed # Definição dos atributos utilizando self.
 
-  def to_dict(self): # Método que retorna um dicionário com os atributos
+  def to_dict(self): # Método que retorna um dicionário com os atributos.
     return {
       "id": self.id,
       "title": self.title,
