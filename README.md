@@ -15,7 +15,7 @@ Este projeto consiste em uma API simples de CRUD (Create, Read, Update, Delete) 
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Guihauck/tasks-flask-api)
    ```
 2. Acesse o diretório do projeto:
    ```bash
@@ -68,4 +68,4 @@ python app.py
 `DELETE /tasks/{id}`
 
 ## Autor
-Feito por [Guilherme Hauck](https://github.com/seu-usuario).
+Feito por [Guilherme Hauck][([https://github.com/seu-usuario](https://github.com/Guihauck)).](https://github.com/Guihauck)
