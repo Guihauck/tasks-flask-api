@@ -1,4 +1,4 @@
-# CRUD API com Flask
+# CRUD API com Flask 👨🏻‍🚀🚀
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.0-black?style=for-the-badge&logo=flask)
@@ -15,7 +15,7 @@ Este projeto consiste em uma API simples de CRUD (Create, Read, Update, Delete) 
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Guihauck/tasks-flask-api)
+   git clone https://github.com/Guihauck/tasks-flask-api
    ```
 2. Acesse o diretório do projeto:
    ```bash
@@ -68,4 +68,4 @@ python app.py
 `DELETE /tasks/{id}`
 
 ## Autor
-Feito por [Guilherme Hauck][([https://github.com/seu-usuario](https://github.com/Guihauck)).](https://github.com/Guihauck)
+Feito por [Guilherme Hauck](https://github.com/Guihauck).
